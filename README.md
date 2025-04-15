@@ -11,12 +11,11 @@
 
 <div align="center" style="display: flex; align-items: center;">
   <h1 style="font-size: 24px; margin-right: 10px;">My Websites!</h1>
-  <a href="https://www.linkedin.com/in/jordan-fong-75b286219/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/jordan-fong-75b286219/">
     <img
       height="50"
       src="https://github.com/user-attachments/assets/1952fe5a-a098-42ee-9158-8599b1a43983"
       alt="LinkedIn Icon"
-      style="border: none; outline: none;"
     />
   </a>
   <a href="https://tennis-mern.vercel.app/">
@@ -49,7 +48,8 @@ technical_background:
     "Intern - Acumen",
     "Intern",
   ]
-  
+
+programming_languages: [Ruby, Java, C#]
 currently_learning: ["Express.js, Node.js, and React Native"]
 hobbies: ["Pc Gaming", "Tennis", "Lifting", "Reading", "Plants", "Reef Tanks"]
 ```
