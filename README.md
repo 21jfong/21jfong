@@ -1,26 +1,40 @@
-<hr>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hey%20there%20👋&fontSize=90" />
-</p>
-<hr>
+<hr />
 
-<h1>
-  <p align="center">
-    <strong style="font-size: 24px;">Find me on LinkedIn!</strong>
-  </p>
-</h1>
-<a href="https://www.linkedin.com/in/jordan-fong-75b286219/">
-  <p align="center">
-    <img height="50" src="https://github.com/user-attachments/assets/1952fe5a-a098-42ee-9158-8599b1a43983" />
-  </p>
-</a>
-<hr>
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hey%20there%20👋&fontSize=90"
+    alt="Header Banner"
+  />
+</div>
 
-<h2>
-  <p align="center">
-    <strong style="font-size: 24px;">A Little Bit About Me and My Interests</strong>
-  </p>
-</h2>
+<hr />
+
+<div align="center" style="display: flex; align-items: center;">
+  <h1 style="font-size: 24px; margin-right: 10px;">My Websites!</h1>
+  <a href="https://www.linkedin.com/in/jordan-fong-75b286219/" target="_blank" rel="noopener noreferrer">
+    <img
+      height="50"
+      src="https://github.com/user-attachments/assets/1952fe5a-a098-42ee-9158-8599b1a43983"
+      alt="LinkedIn Icon"
+      style="border: none; outline: none;"
+    />
+  </a>
+  <a href="https://tennis-mern.vercel.app/">
+    <img
+      height="50"
+      src="https://github.com/user-attachments/assets/7e27ea6e-5563-4b17-bddd-5670bf157de8"
+      alt="Project Icon"
+      style="border: none; outline: none;"
+    />
+  </a>
+</div>
+
+
+<hr />
+
+<div align="center">
+  <h2 style="font-size: 24px;">A Little Bit About Me and My Interests</h2>
+</div>
 
 ```yaml
 name: Jordan Fong
@@ -31,14 +45,13 @@ education:
 company: Acima
 technical_background:
   [
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Intern",
+    "Intern - Acumen",
+    "Intern",
   ]
   
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+currently_learning: ["Express.js, Node.js, and React Native"]
+hobbies: ["Pc Gaming", "Tennis", "Lifting", "Reading", "Plants", "Reef Tanks"]
 ```
 
 
