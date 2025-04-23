@@ -39,14 +39,16 @@
 name: Jordan Fong
 education:
   [
-    "Bachelor's in Computer Science",
+    "Bachelor's in Computer Science" - University of Utah,
   ]
-company: Acima
 technical_background:
   [
-    "Intern",
-    "Intern - Acumen",
-    "Intern",
+  - title: "Software Engineer Intern"
+      company: "Acima"
+      date: "Jun 2024 - Aug 2024"
+  - title: "Software Engineer Intern"
+      company: "Acima"
+      date: "May 2023 - Aug 2023"
   ]
 
 programming_languages: [Ruby, Java, C#]
