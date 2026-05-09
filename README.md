@@ -2,7 +2,7 @@
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hey%20there%20👋&fontSize=90"
+    src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hello&fontSize=90"
     alt="Header Banner"
   />
 </div>
