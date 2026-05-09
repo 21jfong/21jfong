@@ -18,14 +18,6 @@
       alt="LinkedIn Icon"
     />
   </a>
-  <a href="https://tennis-mern.vercel.app/">
-    <img
-      height="50"
-      src="https://github.com/user-attachments/assets/7e27ea6e-5563-4b17-bddd-5670bf157de8"
-      alt="Project Icon"
-      style="border: none; outline: none;"
-    />
-  </a>
 </div>
 
 
